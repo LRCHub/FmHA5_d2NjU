@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "アイコトバ",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-01-12T05:29:32.973454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "黒澤ルビィ (CV.降幡 愛)",
+      "has_synced": true,
+      "path": "select/01_アイコトバ_黒澤ルビィ_(CV.降幡_愛).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "黒澤ルビィ(CV.降幡愛)",
+      "has_synced": true,
+      "path": "select/02_アイコトバ_黒澤ルビィ(CV.降幡愛).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "HOME MADE KAZOKU",
+      "has_synced": true,
+      "path": "select/03_アイコトバ_HOME_MADE_KAZOKU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "HOME MADE 家族",
+      "has_synced": true,
+      "path": "select/04_アイコトバ_HOME_MADE_家族.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/05_アイコトバ_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/06_アイコトバ_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/07_アイコトバ_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/08_アイコトバ_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイコトバ！",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/09_アイコトバ!_Liella!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "GARNiDELiA",
+      "has_synced": true,
+      "path": "select/10_アイコトバ_GARNiDELiA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "Home Made Kazoku",
+      "has_synced": true,
+      "path": "select/11_アイコトバ_Home_Made_Kazoku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "Ci+LUS",
+      "has_synced": false,
+      "path": "select/12_アイコトバ_Ci+LUS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "Sakura Merry-Men",
+      "has_synced": true,
+      "path": "select/13_アイコトバ_Sakura_Merry-Men.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイコトバ",
+      "artist": "宮﨑歩&AiM",
+      "has_synced": true,
+      "path": "select/14_アイコトバ_宮﨑歩&AiM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アイコトバ!",
+      "artist": "Liella!",
+      "has_synced": true,
+      "path": "select/15_アイコトバ!_Liella!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイコトバ",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_アイコトバ_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
